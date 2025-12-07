@@ -20,6 +20,9 @@ dc1-file.ksn.kaspersky-labs.com
 # --- CSFT CERTSAFETY WHITLIST - GENERICOS ---
 github.com
 www.bing.com
+web.whatsapp.com
+whatsapp.com
+api.whatsapp.com
 
 # --- CSFT CERTSAFETY WHITLIST - BANCOS ---
 bb.com.br
