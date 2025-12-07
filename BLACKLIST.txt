@@ -1,0 +1,4 @@
+# --- CSFT CERTSAFETY BLACKLIST - FULL DOMINIOS ---
+# --- CSFT CERTSAFETY BLACKLIST - DEDICATED ---
+msn.com
+unicesumar.edu.br
